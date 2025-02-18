@@ -71,38 +71,6 @@ Os resultados também são salvos automaticamente em um arquivo resultado.txt.
 │── rodar.sh          # Script para execução no Linux/macOS
 │── README.md         # Documentação do projeto
 
-📌 Exemplo de Uso
-
-========================================
-            CALCULADORA              
-========================================
-
-Digite o seu nome de usuário 1: João
-Digite o seu nome de usuário 2: Maria
-
-João, digite o primeiro número: 10
-João, digite o segundo número: 2
-
-Escolha a operação:
-1 - Soma
-2 - Subtração
-3 - Multiplicação
-4 - Divisão
-5 - Potência
-6 - Resto da divisão
-7 - Todas as operações
-
-Digite o número da operação desejada: 7
-
-========================================
-📌   Seus Resultados João:
-Soma: 10 + 2 = 12
-Subtração: 10 - 2 = 8
-Multiplicação: 10 * 2 = 20
-Divisão: 10 / 2 = 5.0
-Potência: 10 ** 2 = 100
-Resto da divisão: 10 % 2 = 0
-========================================
 
 📌 Autor
 
