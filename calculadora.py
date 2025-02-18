@@ -4,7 +4,7 @@ from colorama import Fore, Style
 colorama.init(autoreset=True)
 
 print(Fore.CYAN + "=" * 40)
-print(Fore.YELLOW + "         CALCULADORA DE USUÁRIOS      ")
+print(Fore.YELLOW + "            CALCULADORA              ")
 print(Fore.CYAN + "=" * 40 + "\n")
 
 
