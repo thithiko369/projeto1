@@ -10,6 +10,9 @@ bash
 Copiar
 Editar
 python --version
+
+
+
 2️⃣ Clonar o Repositório
 Se ainda não tiver o projeto no seu computador, clone o repositório com:
 
@@ -18,6 +21,9 @@ Copiar
 Editar
 git clone https://github.com/thithiko369/projeto1.git
 cd projeto1
+
+
+
 3️⃣ Executar a Calculadora
 No terminal, dentro da pasta do projeto, execute:
 
