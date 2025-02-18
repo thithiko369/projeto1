@@ -32,21 +32,24 @@ Copiar
 Editar
 #!/bin/bash
 python3 calculadora.py
+
 Dê permissão de execução ao script com o comando:
 bash
 Copiar
 Editar
 chmod +x rodar.sh
+
 Agora, execute o script:
 bash
 Copiar
 Editar
 ./rodar.sh
+
+
 📌 Funcionalidades da Calculadora
 ✅ Solicita os nomes de dois usuários.
 ✅ Cada usuário informa dois números.
 ✅ Permite escolher entre as seguintes operações matemáticas:
-
 Soma
 Subtração
 Multiplicação
@@ -56,6 +59,7 @@ Resto da divisão
 Executar todas as operações de uma vez
 ✅ Exibe os resultados no terminal com cores para melhor visualização.
 ✅ Salva os resultados automaticamente no arquivo resultado.txt.
+
 
 📌 Estrutura do Projeto
 bash
